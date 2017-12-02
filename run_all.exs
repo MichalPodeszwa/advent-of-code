@@ -1,0 +1,1 @@
+AdventOfCode.run_all()
